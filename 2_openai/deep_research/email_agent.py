@@ -3,7 +3,7 @@ from typing import Dict
 
 import sendgrid
 from sendgrid.helpers.mail import Email, Mail, Content, To
-from agents import Agent, function_tool
+from openai.agents import Agent, function_tool
 
 @function_tool
 def send_email(subject: str, html_body: str) -> Dict[str, str]:
