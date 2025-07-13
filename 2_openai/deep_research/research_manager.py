@@ -7,6 +7,7 @@ import asyncio
 
 class ResearchManager:
 
+    # the execution block of previous notebook
     async def run(self, query: str):
         """ Run the deep research process, yielding the status updates and the final report"""
         trace_id = gen_trace_id()
