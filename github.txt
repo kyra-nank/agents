@@ -1,0 +1,7 @@
+Use this to pull updates:
+git pull upstream main
+
+To update the fork in my github acct:
+git add .
+git commit -m "Commit comment"
+git push
