@@ -1,5 +1,7 @@
 ## Master AI Agentic Engineering -  build autonomous AI Agents
 
+[Note from Kyra] This repository contains my progress working through Ed Donner’s AI course. I have annotated notebooks with my own experiments and notes.
+
 ### 6 week journey to code and deploy AI Agents with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP
 
 ![Autonomous Agent](assets/autonomy.png)
